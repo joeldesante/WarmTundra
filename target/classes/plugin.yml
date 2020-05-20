@@ -1,0 +1,5 @@
+name: WarmTundra
+version: 1.0-SNAPSHOT
+main: com.joeldesante.warmtundra.WarmTundra
+api-version: 1.13
+load: STARTUP

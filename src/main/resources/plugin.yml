@@ -1,0 +1,5 @@
+name: WarmTundra
+version: ${project.version}
+main: com.joeldesante.warmtundra.WarmTundra
+api-version: 1.13
+load: STARTUP
